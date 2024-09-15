@@ -23,8 +23,8 @@ Live link: https://task-management-app-backend-8pr1.onrender.com
     - GET, PUT, PATCH - https://task-management-app-backend-8pr1.onrender.com/users/profile/
 
   - **Task API**:
-    - GET, POST - http://food-delivery-api-drf.onrender.com/tasks/tasks/
+    - GET, POST - https://task-management-app-backend-8pr1.onrender.com/tasks/tasks/
     - PUT, PATCH, DELETE - http://food-delivery-api-drf.onrender.com/tasks/tasks/[id]/
   - **Subtask API**:
-    - GET, POST - http://food-delivery-api-drf.onrender.com/tasks/subtasks/
-    - PUT, PATCH, DELETE - http://food-delivery-api-drf.onrender.com/tasks/subtasks/[id]/
+    - GET, POST - https://task-management-app-backend-8pr1.onrender.com/tasks/subtasks/
+    - PUT, PATCH, DELETE - https://task-management-app-backend-8pr1.onrender.com/tasks/subtasks/[id]/
