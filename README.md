@@ -8,8 +8,8 @@ Live link: https://task-management-app-backend-8pr1.onrender.com
 - **Login:** https://task-management-app-backend-8pr1.onrender.com/admin/
 
 **Custom Admin Credentials**
-- **Username:** `admin`
-- **Password:** `123abc`
+- **Username:** `junaid`
+- **Password:** `1212or1212`
 - **Login:** https://task-management-app-backend-8pr1.onrender.com/users/login/
 
 **All API Endpoints**:
