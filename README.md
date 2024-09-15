@@ -1,6 +1,6 @@
 # task_management_app_backend
 
-**Django Admin Credentials** 
+**Django Admin (Super User) Credentials** 
 - **Username:** `admin`
 - **Password:** `123abc`
 - **Login:** https://task-management-app-backend-8pr1.onrender.com/admin/
